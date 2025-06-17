@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/universal-editor-test-poc/:/",
+    "/content/universal-editor-test-poc/configuration:/.helix/config.json",
+    "/content/universal-editor-test-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-test-poc/"
   ]
 }
