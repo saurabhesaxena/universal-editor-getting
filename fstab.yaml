@@ -1,4 +1,4 @@
-mountpoints:
+ mountpoints:
   /:
     url: "https://author-p11300-e47725.adobeaemcloud.com/bin/franklin.delivery/saurabhesaxena/universal-editor-getting/main"
     type: "markup"
