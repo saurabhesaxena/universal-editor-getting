@@ -24,6 +24,12 @@
     "components": [
       "card"
     ]
+  },{
+    "id": "card",
+    "components": [
+      "text",
+      "image"
+    ]
   },
   {
     "id": "columns",
